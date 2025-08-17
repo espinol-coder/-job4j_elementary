@@ -11,5 +11,6 @@ public class ArgumentsMethod {
         ArgumentsMethod.hello(name, age);
         ArgumentsMethod.hello(name, age);
         ArgumentsMethod.hello(name, age);
+        ArgumentsMethod.hello(name, age);
     }
 }
